@@ -7,6 +7,7 @@ BTC-DL is a comprehensive Jupyter Notebook designed for brain tumor classificati
 ## Dataset
 
 The dataset can be downloaded from the following link: [Brain Tumor Dataset](https://figshare.com/ndownloader/articles/1512427/versions/8)
+Source Link: https://figshare.com/articles/dataset/brain_tumor_dataset/1512427
 
 ## How to Use
 
@@ -35,4 +36,4 @@ This project is open-source and available for customization and further developm
 
 ## Acknowledgements
 
-* The dataset used in this project is sourced from [Figshare](https://figshare.com/ndownloader/articles/1512427/).
+* The dataset used in this project is sourced from [Figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427).
