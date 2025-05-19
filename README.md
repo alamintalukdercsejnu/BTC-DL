@@ -35,4 +35,4 @@ This project is open-source and available for customization and further developm
 
 ## Acknowledgements
 
-* The dataset used in this project is sourced from [Figshare](https://figshare.com/ndownloader/articles/1512427/versions/8).
+* The dataset used in this project is sourced from [Figshare](https://figshare.com/ndownloader/articles/1512427/).
